@@ -132,6 +132,8 @@ _add list here_
 - [Minimum Sum Partition](dp/Minimum_Sum_Partition.cpp)
 - [Implement Floyd-Warshall Algorithm](dp/floyd_warshall.cpp)
 - [Rectangle Cutting Problem](dp/Rectangle_cutting.cpp)
+- [Rectangle Cut Problem using vector](dp/rectangle_cut_vector.cpp)
+
 
 ## Blockchain
 
